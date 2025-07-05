@@ -66,20 +66,20 @@ QuickVoice supports a wide range of languages and locales for voice input:
 
 ## ✨ Speech-to-Text Punctuation
 
-The `speech_to_text` plugin supports **automatic punctuation** by interpreting certain spoken commands into punctuation marks (depending on language model and OS). Below are commonly supported spoken punctuations:
+The speech_to_text plugin supports automatic punctuation by interpreting certain spoken commands into punctuation marks. ⚠️ Punctuation support depends on the selected language and device capabilities, and may not be available for all locales.
 
-| Say this              | Resulting Text Output   |
-|-----------------------|--------------------------|
-| "comma"               | ,                        |
-| "full stop"           | .                        |
-| "question mark"       | ?                        |
-| "exclamation point"   | !                        |
-| "colon"               | :                        |
-| "semicolon"           | ;                        |
-| "dash"                | -                        |
-| "ellipsis"            | ...                      |
-| "open parenthesis"    | (                        |
-| "close parenthesis"   | )                        |
+| Say this (For English)    | Resulting Text Output    |
+|---------------------------|--------------------------|
+| "comma"                   | ,                        |
+| "full stop"               | .                        |
+| "question mark"           | ?                        |
+| "exclamation point"       | !                        |
+| "colon"                   | :                        |
+| "semicolon"               | ;                        |
+| "dash"                    | -                        |
+| "ellipsis"                | ...                      |
+| "open parenthesis"        | (                        |
+| "close parenthesis"       | )                        |
 
 ---
 
